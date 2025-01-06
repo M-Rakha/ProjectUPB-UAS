@@ -76,5 +76,13 @@ Alur Kerja:
 
 ## Hasil Code Data
 
+![gambar](https://github.com/M-Rakha/ProjectUPB-UAS/blob/7605a666f857aee05ae1888e1e0328937c5ac345/class%20data%20code.png)
+
+## Hasil Code View
+
+
+
+
+
 
 
