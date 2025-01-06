@@ -73,3 +73,8 @@ Alur Kerja:
 6: Keluar dari program.
 
 - Jika pilihan tidak valid, akan ditampilkan pesan kesalahan.
+
+## Hasil Code Data
+
+
+
