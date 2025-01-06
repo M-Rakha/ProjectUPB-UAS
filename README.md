@@ -80,6 +80,10 @@ Alur Kerja:
 
 ## Hasil Code View
 
+![gambar](https://github.com/M-Rakha/ProjectUPB-UAS/blob/0ead244875f7fd173623bc61b56bc39c4720ac6c/class%20view%20code.png)
+
+## Hasil Code Process
+
 
 
 
