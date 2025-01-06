@@ -88,7 +88,9 @@ Alur Kerja:
 
 ## Hasil Code Main
 
+![gambar](https://github.com/M-Rakha/ProjectUPB-UAS/blob/d0f4c140a1b1031d9c5e52955a5891af6e80472c/class%20main.py%20code.png)
 
+## Hasil Run Main
 
 
 
