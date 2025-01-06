@@ -84,7 +84,9 @@ Alur Kerja:
 
 ## Hasil Code Process
 
+![gambar](https://github.com/M-Rakha/ProjectUPB-UAS/blob/63fc55f97a8aef695f85c3d03ea9ede3283e32ca/class%20process%20code.png)
 
+## Hasil Code Main
 
 
 
