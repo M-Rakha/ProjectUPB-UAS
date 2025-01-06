@@ -92,5 +92,9 @@ Alur Kerja:
 
 ## Hasil Run Main
 
+![gambar](https://github.com/M-Rakha/ProjectUPB-UAS/blob/864973f8e8c743f54dc20162ad185bf31f1251d2/Cuplikan%20layar%202025-01-07%20011900.png)
+
+
+
 
 
